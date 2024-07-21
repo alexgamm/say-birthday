@@ -1,0 +1,1 @@
+gradlew.bat bootBuildImage --imageName cr.yandex/crpj70k834ltkurc4gi9/say-birthday:latest

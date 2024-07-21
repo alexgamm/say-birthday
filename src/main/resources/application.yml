@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: say-birthday
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    url: jdbc:postgresql://localhost:5432/say_birthday
+    username: say_birthday
+    password: say_birthday
+  flyway:
+    enabled: true
